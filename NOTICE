@@ -1,0 +1,6 @@
+Durable File Publication
+Copyright 2026 OnixResearch
+
+This repository promotes the owner-licensed clean-room publication candidate from OnixResearch/artifact. Exact source revisions, file identities, modifications, and non-claims are recorded in provenance/SOURCE.md and provenance/source.ncl.
+
+All first-party packages and new owned source, contracts, schemas, fixtures, templates, documentation and policy are offered under AGPL-3.0-or-later; see LICENSE and LICENSE-AGPL. Prior MIT/Apache grants remain effective for previously granted material, including byte-identical content. LICENSE-MIT and LICENSE-APACHE are retained for historical grants and dependencies, not as permissive offers for new contributions. Immutable provenance and third-party terms remain unchanged.

@@ -1,0 +1,39 @@
+{
+  "claim_boundary": [
+    "Publication does not prove destination authorization, payload truth, canonical encoding, or content identity.",
+    "Successful synchronization calls do not prove filesystem correctness, storage-device persistence, or power-loss survival.",
+    "CommittedDurabilityUnknown is a committed destination observation and is not ordinary failure or durable success.",
+    "The crate does not own existing-content equivalence, locks, transactions, receipts, rollback, recovery, retention, deployment, garbage collection, deletion, or release decisions.",
+    "Linux execution evidence does not prove Android execution or support on other operating systems."
+  ],
+  "distribution": {
+    "channel": "radicle-immutable-git-revision",
+    "crates_io": false,
+    "floating_revisions": false,
+    "sibling_paths": false
+  },
+  "license": "AGPL-3.0-or-later",
+  "packages": [
+    "durable-file-publication"
+  ],
+  "platform_evidence": {
+    "android": "not-executed",
+    "linux": "executed",
+    "other": "built-in-shell-unsupported"
+  },
+  "project": "durable-file-publication",
+  "radicle_rid": "rad:z3tAR4For7qw8ZirkJzoDw1VNDDLM",
+  "repository": "rad://z3tAR4For7qw8ZirkJzoDw1VNDDLM",
+  "required_checks": [
+    "cargo-format",
+    "cargo-test",
+    "cargo-clippy",
+    "core-no-std-host",
+    "core-no-std-wasm",
+    "nickel-contracts",
+    "source-provenance",
+    "cairn-validation",
+    "authority-audit"
+  ],
+  "schema": "durable-file-publication.release-profile.v1"
+}
